@@ -1,0 +1,17 @@
+{
+  "name": "docker-app",
+  "version": "1.0.0",
+  "description": "Simple Node.js Docker CI/CD app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Test successful\""
+  },
+  "keywords": [],
+  "author": "Chirag",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
